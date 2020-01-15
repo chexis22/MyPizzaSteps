@@ -2,4 +2,5 @@
 2. new button 
 3. Call
 4. New Color
-5 New Flavor
+5  New Flavor
+6. New Location
