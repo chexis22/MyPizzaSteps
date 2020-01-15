@@ -1,2 +1,4 @@
 1. Decide what type of pizza we want
-2.
+2. new button 
+3. Call
+4. New Color
